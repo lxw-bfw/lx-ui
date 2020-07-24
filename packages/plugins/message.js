@@ -4,7 +4,7 @@
  * @Author: lxw
  * @Date: 2020-07-24 10:41:55
  * @LastEditors: lxw
- * @LastEditTime: 2020-07-24 11:23:03
+ * @LastEditTime: 2020-07-24 12:05:31
  */ 
 
 import LxMessage from '../components/messge.vue'
@@ -12,7 +12,7 @@ import LxMessage from '../components/messge.vue'
 
 /**
  * @name: 
- * @description: 封装messge提示框插件，核心：extend的使用
+ * @description: 封装messge提示框插件，核心：extend的使用,$el属性
  * @msg: 
  * @param {type}  Vue:传入Vue构造器
  * @return: Function

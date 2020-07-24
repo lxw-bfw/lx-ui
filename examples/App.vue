@@ -4,7 +4,7 @@
  * @Author: lxw
  * @Date: 2020-07-21 21:51:53
  * @LastEditors: lxw
- * @LastEditTime: 2020-07-24 11:48:01
+ * @LastEditTime: 2020-07-24 12:05:02
 -->
 <template>
   <div id="app">
@@ -251,6 +251,7 @@ export default {
   methods: {
     testclick() {},
     showMessage(type) {
+      // 显示关闭按钮
       if (type === "close") {
         this.$message({
           showClose: true

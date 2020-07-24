@@ -53,7 +53,7 @@ npm发布
 <small>组件还在完善和补充当中，文档也会尽快开始编写...</small>
 
 可以查看examples目录里面的demo示例
-![text](组件demo1.png)
+![text](./组件demo1.png)
 
 ![text](组件demo2.png)
 
