@@ -53,7 +53,7 @@ npm发布
 ###### 组件还在完善和补充当中，文档也会尽快开始编写...
 
 可以查看examples目录里面的demo示例
-![add image](https://github.com/lxw-bfw/lx-ui/raw/master/images/demo1.png)
+![text](https://note.youdao.com/yws/api/personal/file/ECA03C58CA1742DEB295F4F095B86E84?method=download&shareKey=6f6c184232a10e01e4c6f04c9ea19d91)
 
 
 ![text](https://note.youdao.com/yws/api/personal/file/867E689246E643E886B1C8A3E15A6FC5?method=download&shareKey=4f17c47562ffd0bada82d0674f72a5ea)
